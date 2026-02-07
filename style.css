@@ -24,9 +24,6 @@ a:hover {
   color: #0284c7;
 }
 
-/* ===========================
-   Container & Sections
-=========================== */
 section {
   padding: 60px 20px;
   max-width: 900px;
@@ -107,25 +104,51 @@ h1, h2, h3 {
 }
 
 /* ===========================
-   Projects Section
+   Projects Gallery
 =========================== */
-.projects ul {
-  list-style: none;
-  padding: 0;
+.projects .gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
 }
 
-.projects li {
-  background: #f1f5f9;
-  margin: 12px 0;
-  padding: 15px 20px;
-  border-left: 5px solid #38bdf8;
-  border-radius: 5px;
-  transition: transform 0.2s, box-shadow 0.2s;
-}
-
-.projects li:hover {
-  transform: translateY(-2px);
+.project-card {
+  background: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+  display: flex;
+  flex-direction: column;
+}
+
+.project-card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+
+.project-card h3 {
+  margin: 15px;
+}
+
+.project-card p {
+  margin: 0 15px 15px 15px;
+  font-size: 0.95rem;
+  color: #334155;
+}
+
+.project-card .button {
+  margin: 10px 15px 15px 15px;
+  padding: 8px 12px;
+  font-size: 0.9rem;
+  display: inline-block;
+  text-align: center;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.15);
 }
 
 /* ===========================
