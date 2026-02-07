@@ -18,7 +18,7 @@
 - 🔄 Automated CI/CD and infrastructure provisioning
 
 ## 🌐 Portfolio
-👉 https://shvkmr536.github.io
+👉 https://shvkmr536.github.io/shivpal.github.io
 
 ## 🔗 Connect
 - GitHub: https://github.com/shvkmr536  
