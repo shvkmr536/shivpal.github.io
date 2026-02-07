@@ -1,10 +1,160 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>My GitHub Page</title>
-  </head>
-  <body>
-    <h1>Hello World 🚀</h1>
-    <p>This is my GitHub Pages site.</p>
-  </body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Shivpal | Senior DevOps Engineer</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    /* ====== Global Styles ====== */
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      background-color: #f8fafc;
+      color: #1e293b;
+    }
+    a {
+      color: #0ea5e9;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    h1, h2, h3 {
+      margin: 0.5em 0;
+    }
+    section {
+      padding: 60px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    /* ====== Hero Section ====== */
+    .hero {
+      text-align: center;
+      padding: 100px 20px;
+      background: #0f172a;
+      color: #f8fafc;
+    }
+    .hero h1 {
+      font-size: 3rem;
+      margin-bottom: 10px;
+    }
+    .hero h2 {
+      font-size: 1.5rem;
+      font-weight: 400;
+      color: #38bdf8;
+      margin-bottom: 20px;
+    }
+    .hero p {
+      max-width: 700px;
+      margin: auto;
+      font-size: 1.2rem;
+    }
+    .hero a.button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 25px;
+      background-color: #38bdf8;
+      color: #0f172a;
+      font-weight: bold;
+      border-radius: 5px;
+    }
+    .hero a.button:hover {
+      background-color: #0ea5e9;
+      color: #ffffff;
+    }
+
+    /* ====== Skills & Projects ====== */
+    .skills ul, .projects ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    .skills li, .projects li {
+      background: #e2e8f0;
+      margin: 10px 0;
+      padding: 10px 15px;
+      border-radius: 5px;
+    }
+
+    /* ====== Footer ====== */
+    footer {
+      text-align: center;
+      padding: 40px 20px;
+      background: #0f172a;
+      color: #f8fafc;
+    }
+    footer a {
+      color: #38bdf8;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HERO / INTRO -->
+  <header class="hero">
+    <h1>Shivpal</h1>
+    <h2>Senior DevOps Engineer</h2>
+    <p>
+      Senior DevOps Engineer with extensive experience designing and managing scalable, highly available cloud infrastructure. Expert in AWS, Kubernetes, Docker, CI/CD pipelines, and Infrastructure as Code. Passionate about automation, performance optimization, and delivering reliable, production-grade solutions.
+    </p>
+    <a class="button" href="https://github.com/shvkmr536" target="_blank">View GitHub</a>
+  </header>
+
+  <!-- ABOUT ME -->
+  <section>
+    <h2>About Me</h2>
+    <p>
+      I specialize in building cloud-native infrastructures, automating deployment workflows, and ensuring application reliability at scale. I enjoy solving complex problems, optimizing processes, and sharing knowledge through documentation and collaboration.
+    </p>
+  </section>
+
+  <!-- SKILLS -->
+  <section class="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li><strong>Cloud:</strong> AWS (EC2, S3, IAM, VPC, EKS)</li>
+      <li><strong>Containers & Orchestration:</strong> Docker, Kubernetes, Helm</li>
+      <li><strong>CI/CD:</strong> GitHub Actions, Jenkins</li>
+      <li><strong>Infrastructure as Code:</strong> Terraform, Ansible</li>
+      <li><strong>Monitoring:</strong> Prometheus, Grafana</li>
+      <li><strong>OS & Scripting:</strong> Linux, Bash, Python</li>
+    </ul>
+  </section>
+
+  <!-- PROJECTS -->
+  <section class="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li>
+        <strong>CI/CD Pipeline for Node.js App:</strong> GitHub Actions → Docker → AWS EC2  
+        <a href="#">View Project</a>
+      </li>
+      <li>
+        <strong>Kubernetes Deployment on EKS:</strong> Helm charts and automated scaling  
+        <a href="#">View Project</a>
+      </li>
+      <li>
+        <strong>Infrastructure as Code:</strong> AWS resources provisioned via Terraform  
+        <a href="#">View Project</a>
+      </li>
+      <li>
+        <strong>Monitoring & Alerts:</strong> Prometheus + Grafana dashboards for production apps  
+        <a href="#">View Project</a>
+      </li>
+    </ul>
+  </section>
+
+  <!-- CONTACT / FOOTER -->
+  <footer>
+    <p>
+      GitHub: <a href="https://github.com/shvkmr536" target="_blank">shvkmr536</a> |
+      LinkedIn: <a href="#">LinkedIn</a> |
+      Email: <a href="mailto:shivpal@example.com">shivpal@example.com</a>
+    </p>
+    <p>&copy; 2026 Shivpal</p>
+  </footer>
+
+</body>
 </html>
