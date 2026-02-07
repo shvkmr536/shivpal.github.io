@@ -1,29 +1,37 @@
 # 👋 Shiv Kumar Pal — Site Reliability / DevOps Engineer
 
-🚀 **SRE / DevOps Engineer** with  
-- **7+ years** in production & application support  
-- **5+ years** hands-on DevOps / SRE experience  
+🚀 **Site Reliability / DevOps Engineer** with:
+- **7+ years** in production & application support
+- **5+ years** hands-on DevOps / SRE experience
+
+## 🏢 Domains
+- Banking & Financial Services
+- E-commerce / Retail
+- Oil & Gas / Industrial Systems
 
 ## 🔧 Core Expertise
-- **Cloud:** AWS (EC2, ECS, EKS, Lambda, RDS, S3, CloudWatch)
-- **Containers:** Docker, Kubernetes, ECS
-- **IaC:** Terraform, Ansible, CloudFormation
-- **CI/CD:** Jenkins (JCasC), GitHub Actions, Argo CD
-- **Reliability:** SLIs, SLOs, SLAs, Error Budgets
-- **Ops:** On-call, Incident Response, Change Management
+AWS • Kubernetes • Terraform • CI/CD • SLIs/SLOs • Incident Response • On-call
 
-## 📈 Impact
-- ⏱ Reduced deployment time by **50%**
-- 📉 Improved production reliability and resilience
-- 🔄 Automated CI/CD and infrastructure provisioning
+## 🏢 Professional Experience
+Wipro • Mindcraft • Hexaware • Mastek • Birlasoft • Gilbarco Veeder Root
+
+## 🎓 Certifications
+- AWS Developer Associate
+- Certified DevOps Engineer
+- Certified Scrum Master (EXIN)
+- Docker Certified Associate
+
+## 🏆 Awards & Recognition
+- Spotlight Award – Q1 2025
+- Bravo Award – Mastek
+- ACE of the Month – Hexaware
+- R4U Currency of Appreciation
+- Fast-track promotion to Senior Consultant
 
 ## 🌐 Portfolio
-👉 https://shvkmr536.github.io/shivpal.github.io
+👉 https://shvkmr536.github.io
 
 ## 🔗 Connect
 - GitHub: https://github.com/shvkmr536  
-- LinkedIn: https://www.linkedin.com/in/shvkmr536/
-
----
-
-⭐ *Focused on building reliable, scalable, and observable systems.*
+- LinkedIn: https://www.linkedin.com/in/shvkmr536/  
+- Email: shvkmr536@gmail.com
