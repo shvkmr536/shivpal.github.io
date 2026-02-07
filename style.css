@@ -1,1 +1,23 @@
+.hero {
+  text-align: center;
+  padding: 60px 20px;
+  background: #0f172a;   /* dark blue */
+  color: #f8fafc;
+}
 
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.hero h2 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #38bdf8;
+}
+
+.hero p {
+  max-width: 700px;
+  margin: 20px auto;
+  font-size: 1.1rem;
+}
