@@ -1,8 +1,8 @@
 # 👋 Shiv Kumar Pal — Site Reliability / DevOps Engineer
 
 🚀 **Site Reliability / DevOps Engineer** with:
-- **7+ years** in production & application support
-- **5+ years** hands-on DevOps / SRE experience
+- **6+ years** in production & application support
+- **7+ years** hands-on DevOps / SRE experience
 
 ## 🏢 Domains
 - Banking & Financial Services
